@@ -15,3 +15,17 @@ Mlxtend (Permutation FI): http://rasbt.github.io/mlxtend/user_guide/evaluate/fea
 Kaggle - Rossmann Store Sales Challenge: https://www.kaggle.com/c/rossmann-store-sales
 
 
+### Requirements
+
+"scipy==1.2.0",
+"scikit-learn==0.21",
+"numpy==1.16.0",
+"pandas==0.22.0",
+"matplotlib==3.1.0",
+"jupyter==1.0.0",
+"shap==0.33.0",
+"jupyterlab",
+"xgboost==0.90",
+"seaborn==0.9.0",
+"scipy==1.4.1",
+"mlxtend==0.17.0",
